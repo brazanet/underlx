@@ -11,9 +11,9 @@ Integration with existing public transit open protocols is also being studied, b
 Both the app and the server backends are being designed with support for multiple transit networks in mind. However, certain components such as the UI and the location services would need to be adjusted to the reality of each network.
 
 <p float="left">
-<img style="padding-bottom:0px" src="https://user-images.githubusercontent.com/29508939/74608782-ee0b4f80-50db-11ea-96ad-e204d489721e.png" width="33%">
-<img style="padding-bottom:0px" src="https://user-images.githubusercontent.com/29508939/74608814-2d39a080-50dc-11ea-9bc9-89b2ffec790e.png" width="33%">
-<img style="padding-bottom:0px" src="https://user-images.githubusercontent.com/29508939/74608832-43476100-50dc-11ea-9a98-c54d5c371cc4.png" width="33%">
+<img style="padding-bottom:0px" src="https://user-images.githubusercontent.com/29508939/74608782-ee0b4f80-50db-11ea-96ad-e204d489721e.png" width="32%">
+<img style="padding-bottom:0px" src="https://user-images.githubusercontent.com/29508939/74608814-2d39a080-50dc-11ea-9bc9-89b2ffec790e.png" width="32%">
+<img style="padding-bottom:0px" src="https://user-images.githubusercontent.com/29508939/74608832-43476100-50dc-11ea-9a98-c54d5c371cc4.png" width="32%">
 </p>
 
 ## Installing and testing
