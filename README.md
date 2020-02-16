@@ -36,8 +36,6 @@ This is a non-profit project. We don't plan on monetizing the app, not even inse
 
 The collaborative features are being engineered with privacy in mind; users will not be uniquely identified. For example, when submitting information during trips, a random ID will be generated at the start of the trip, used for its duration, and destroyed once the user leaves the network.
 
- but also out of our own pockets and eventually any proceedings from gbl08ma's for-profit (but not profitable) projects such as [tny.im](https://tny.im).
-
 ## Disclaimer
 
 We have no affiliation with _Metropolitano de Lisboa, E.P.E._. The code and the associated website are not sponsored or endorsed by them. We shall not be liable for any damages arising from the use of this code or associated websites.
