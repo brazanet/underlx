@@ -22,7 +22,7 @@ The app is still in development, but is already published on Google Play.
 
 [![UnderLX on Google Play](https://user-images.githubusercontent.com/984584/29083840-f2c43e7a-7c61-11e7-83ee-e6cbbe93f753.png)](https://play.google.com/store/apps/details?id=im.tny.segvault.disturbances&utm_source=github&utm_campaign=readme&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
-You can also join the **beta-testing group** and get releases earlier or more often, as well as getting acess to exclusive contnet, by becoming our **patron on Patreon**.
+By becoming our patron you'll be able to join the **beta-testing group**. You'll get access to earlier releases and exclusive content, as well as helping us support the cost of our servers.
 
 [![Become a Patron!](https://c5.patreon.com/external/logo/become_a_patron_button@2x.png)](https://www.patreon.com/bePatron?u=10396324&utm_source=github)
 
@@ -36,7 +36,7 @@ This is a non-profit project. We don't plan on monetizing the app, not even inse
 
 The collaborative features are being engineered with privacy in mind; users will not be uniquely identified. For example, when submitting information during trips, a random ID will be generated at the start of the trip, used for its duration, and destroyed once the user leaves the network.
 
-Maintaining the servers for the online components incurs costs that are paid with the help of our patrons but also out of our own pockets and eventually any proceedings from gbl08ma's for-profit (but not profitable) projects such as [tny.im](https://tny.im).
+ but also out of our own pockets and eventually any proceedings from gbl08ma's for-profit (but not profitable) projects such as [tny.im](https://tny.im).
 
 ## Disclaimer
 
