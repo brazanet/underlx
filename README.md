@@ -22,7 +22,7 @@ The app is still in development, but is already published on Google Play.
 
 You can also join the **beta-testing group** and get releases earlier or more often by becoming our **patron on Patreon**.
 
-[![Become a Patron!](https://c5.patreon.com/external/logo/become_a_patron_button@2x.png)[https://www.patreon.com/bePatron?u=10396324&utm_source=github)
+[![Become a Patron!](https://c5.patreon.com/external/logo/become_a_patron_button@2x.png)](https://www.patreon.com/bePatron?u=10396324&utm_source=github)
 
 ## License
 
