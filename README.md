@@ -20,7 +20,7 @@ The app is still in development, but is already published on Google Play.
 
 [![UnderLX on Google Play](https://user-images.githubusercontent.com/984584/29083840-f2c43e7a-7c61-11e7-83ee-e6cbbe93f753.png)](https://play.google.com/store/apps/details?id=im.tny.segvault.disturbances&utm_source=github&utm_campaign=readme&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
-You can also join the **beta-testing group** and get releases earlier or more often by becoming our **patron on Patreon**.
+You can also join the **beta-testing group** and get releases earlier or more often, as well as getting acess to exclusive contnet, by becoming our **patron on Patreon**.
 
 [![Become a Patron!](https://c5.patreon.com/external/logo/become_a_patron_button@2x.png)](https://www.patreon.com/bePatron?u=10396324&utm_source=github)
 
