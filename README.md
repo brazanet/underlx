@@ -1,4 +1,4 @@
-# underlx [![Discord](https://img.shields.io/discord/334423823552217090.svg)](https://perturbacoes.pt/discord?utm_source=gh-underlx) [![license](https://img.shields.io/github/license/underlx/underlx.svg)](https://github.com/underlx/underlx/blob/master/LICENSE)
+# UnderLX [![Discord](https://img.shields.io/discord/334423823552217090.svg)](https://perturbacoes.pt/discord?utm_source=gh-underlx) [![license](https://img.shields.io/github/license/underlx/underlx.svg)](https://github.com/underlx/underlx/blob/master/LICENSE)
 This is an app for Android devices that shows information about the [Lisbon Metro](http://www.metrolisboa.pt/), as collected by our other project, [disturbancesmlx](https://github.com/underlx/disturbancesmlx).
 
 The long-term goal is to become **the only Lisbon Metro app users will ever need**, and perhaps most importantly, **the one they'll want to have**.
@@ -20,11 +20,9 @@ The app is still in development, but is already published on Google Play.
 
 [![UnderLX on Google Play](https://user-images.githubusercontent.com/984584/29083840-f2c43e7a-7c61-11e7-83ee-e6cbbe93f753.png)](https://play.google.com/store/apps/details?id=im.tny.segvault.disturbances&utm_source=github&utm_campaign=readme&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
-You can also join the **beta-testing group**. Beta testers might get releases earlier or more often:
+You can also join the **beta-testing group** and get releases earlier or more often by becoming our **patron on Patreon**.
 
-1. Start by joining [this Google group](https://groups.google.com/forum/#!forum/disturbancesmlx) with the same Google account you use on Google Play.
-1. Enter the testing program by [going here](https://play.google.com/apps/testing/im.tny.segvault.disturbances/).
-1. You should now be able to download the app from Google Play. Search for "UnderLX".
+<a href="https://www.patreon.com/bePatron?u=10396324" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## License
 
@@ -36,8 +34,8 @@ This is a non-profit project. We don't plan on monetizing the app, not even inse
 
 The collaborative features are being engineered with privacy in mind; users will not be uniquely identified. For example, when submitting information during trips, a random ID will be generated at the start of the trip, used for its duration, and destroyed once the user leaves the network.
 
-Maintaining the servers for the online components incurs costs that are paid out of our own pockets and eventually any proceedings from gbl08ma's for-profit (but not profitable) projects such as [tny.im](https://tny.im).
+Maintaining the servers for the online components incurs costs that are paid with the help of our patrons but also out of our own pockets and eventually any proceedings from gbl08ma's for-profit (but not profitable) projects such as [tny.im](https://tny.im).
 
 ## Disclaimer
 
-We have no affiliation with _Metropolitano de Lisboa, E.P.E._. The code and the associated website are not sponsored or endorsed by them. We shall not be liable for any damages arising from the use of this code or associated website.
+We have no affiliation with _Metropolitano de Lisboa, E.P.E._. The code and the associated website are not sponsored or endorsed by them. We shall not be liable for any damages arising from the use of this code or associated websites.
