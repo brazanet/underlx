@@ -175,7 +175,7 @@
     <string name="lobby_schedule_range_separator">&#160;-&#160;</string>
     <string name="lobby_schedule_range_hours">&#160;(%d hours)</string>
     <string name="lobby_exit_view_map">View map</string>
-    <string name="poi_view_map">View external map</string>
+    <string name="poi_view_map">External map</string>
     <string name="poi_view_on_map">View on map</string>
     <string name="poi_view_website">Website</string>
     <string name="warning_network_closed">The subway network is currently closed. Service will resume at %s.</string>
@@ -240,6 +240,8 @@
     <string name="frag_station_shared_bikes">Shared bikes</string>
     <string name="frag_station_conn_info_loading">Loading…</string>
     <string name="frag_help_title"><![CDATA[Help & Feedback]]></string>
+    <string name="frag_infrastructure_title">Infrastructure</string>
+    <string name="frag_infrastructure_unavailable">Information not available.</string>
     <string name="frag_station_closed_extended">This station is closed for an extended period.</string>
     <string name="frag_station_closed_schedule">This station is currently closed. It will open at %s.</string>
     <string name="cache_extras_success">Extra content downloaded successfully</string>
@@ -498,6 +500,7 @@
 
     <string-array name="frag_settings_languages">
         <item>System default</item>
+        <item>Deutsch</item>
         <item>English</item>
         <item>Español</item>
         <item>Français</item>
@@ -506,6 +509,7 @@
 
     <string-array name="frag_settings_language_values" translatable="false">
         <item>auto</item>
+        <item>de-DE</item>
         <item>en-US</item>
         <item>es-ES</item>
         <item>fr-FR</item>

@@ -21,6 +21,8 @@
     <string name="nav_disturbances">Perturbações</string>
     <string name="nav_home">Início</string>
     <string name="nav_infrastructure">Infraestrutura</string>
+    <string name="frag_infrastructure_title">Infraestrutura</string>
+    <string name="frag_infrastructure_unavailable">Informação não disponível.</string>
     <string name="nav_map">Mapa</string>
     <string name="nav_notif">Notificações</string>
     <string name="nav_plan_route">Planear viagem</string>
@@ -278,7 +280,7 @@
     <string name="frag_settings_locale_title">Idioma e região</string>
     <string name="frag_settings_app_language">Idioma da aplicação</string>
     <string name="act_station_tab_pois">Pontos de interesse</string>
-    <string name="poi_view_map">Ver mapa externo</string>
+    <string name="poi_view_map">Mapa externo</string>
     <string name="poi_view_on_map">Ver no mapa</string>
     <string name="poi_view_website">Site</string>
     <string name="act_stats_title">Estatísticas</string>
@@ -480,6 +482,7 @@
 
     <string-array name="frag_settings_languages">
         <item>Padrão do sistema</item>
+        <item>Deutsch</item>
         <item>English</item>
         <item>Español</item>
         <item>Français</item>

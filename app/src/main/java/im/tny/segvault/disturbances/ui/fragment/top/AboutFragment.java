@@ -130,9 +130,9 @@ public class AboutFragment extends TopFragment {
         data.add(ajob);
 
         Map<String, String> mpref = new HashMap<>(3);
-        mpref.put("name", "Material Preference");
-        mpref.put("license", "© consp1racy\nApache License 2.0");
-        mpref.put("url", "https://github.com/consp1racy/android-support-preference");
+        mpref.put("name", "AndroidX Preference eXtended");
+        mpref.put("license", "© Gergely Kőrössy\nApache License 2.0");
+        mpref.put("url", "https://github.com/takisoft/preferencex-android");
         data.add(mpref);
 
         Map<String, String> jss = new HashMap<>(3);
@@ -140,12 +140,6 @@ public class AboutFragment extends TopFragment {
         jss.put("license", "© Thibault Debatty\nMIT License");
         jss.put("url", "https://github.com/tdebatty/java-string-similarity");
         data.add(jss);
-
-        Map<String, String> realm = new HashMap<>(3);
-        realm.put("name", "Realm Java");
-        realm.put("license", "© Realm Inc\nApache License 2.0");
-        realm.put("url", "https://realm.io/products/realm-mobile-database/");
-        data.add(realm);
 
         Map<String, String> htmltv = new HashMap<>(3);
         htmltv.put("name", "HtmlTextView");
